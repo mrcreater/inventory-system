@@ -93,8 +93,8 @@
         </table>
         </br> </br>
         
-        <a href='/PatelParinkumar_Assign1/AddInventory.jsp'><button id="button">Go Back</button></a> 
-        <a href='/PatelParinkumar_Assign1'><button id="button1">Go Home</button></a> 
+        <a href='/PatelParinkumar_Assign2/AddInventory.jsp'><button id="button">Go Back</button></a> 
+        <a href='/PatelParinkumar_Assign2'><button id="button1">Go Home</button></a> 
     
     </body>
 </html>
